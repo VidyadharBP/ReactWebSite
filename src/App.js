@@ -1,8 +1,6 @@
 import './App.css';
 import  { React ,useState} from 'react';
-import AnalogClock from 'analog-clock-react'
 import UsForm from './UsForm';
-import ComA from './ComA';
 
 
 export function App(){
